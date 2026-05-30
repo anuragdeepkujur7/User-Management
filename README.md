@@ -35,6 +35,9 @@ The project follows industry-standard design patterns such as Repository Pattern
 * Git & GitHub
 
 ---
+## Screenshots
+<img width="1920" height="1080" alt="Screenshot (3157)" src="https://github.com/user-attachments/assets/62bfee22-bbfe-4d83-9e5f-fabc882a1aed" />
+
 
 ## Database Structure
 
