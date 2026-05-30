@@ -1,0 +1,794 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\dto\\user\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:dto\\user\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\controllers\\employmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:controllers\\employmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\repository\\implementation\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:repository\\implementation\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B377C7B0-EC6B-4E4E-B3FA-46910E040E73}|..\\Project5.UnitTest\\Project5.UnitTest.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project5.unittest\\userscontrollertests..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\services\\implementation\\educationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:services\\implementation\\educationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\services\\interface\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:services\\interface\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\repository\\interface\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:repository\\interface\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\middleware\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:middleware\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\dto\\address\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:dto\\address\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\dto\\address\\updateaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:dto\\address\\updateaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\project 5 final.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:project 5 final.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\models\\invalidtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:models\\invalidtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\dto\\user\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:dto\\user\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\dto\\user\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:dto\\user\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\dto\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:dto\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\dto\\user\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:dto\\user\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\models\\employment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:models\\employment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\services\\interface\\ieducationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:services\\interface\\ieducationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\services\\interface\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:services\\interface\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\services\\implementation\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:services\\implementation\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\services\\implementation\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:services\\implementation\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\repository\\interface\\ieducationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:repository\\interface\\ieducationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\repository\\interface\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:repository\\interface\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\repository\\implementation\\educationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:repository\\implementation\\educationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\repository\\implementation\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:repository\\implementation\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\project 5 final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:project 5 final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\dto\\education\\educationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:dto\\education\\educationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|c:\\users\\ibz\\onedrive - interbiz consulting pvt ltd\\desktop\\anurag\\project 5 final\\dto\\contact\\updatecontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654DF801-925A-4B29-B4E1-893CA91D4229}|Project 5 final.csproj|solutionrelative:dto\\contact\\updatecontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 653,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenValidationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Middleware\\TokenValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\TokenValidationMiddleware.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Middleware\\TokenValidationMiddleware.cs",
+              "RelativeToolTip": "Middleware\\TokenValidationMiddleware.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:26:52.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Interface\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Interface\\IContactRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IContactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:05:35.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "Controllers\\AddressController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:38:51.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\Implementation\\UserRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwEYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:06:09.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwEgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:49:51.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\UserdbContext.cs",
+              "RelativeDocumentMoniker": "Models\\UserdbContext.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\UserdbContext.cs",
+              "RelativeToolTip": "Models\\UserdbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:13:05.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwIAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:33:06.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Implementation\\UserService.cs",
+              "RelativeToolTip": "Services\\Implementation\\UserService.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAkwL8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:20:04.702Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\User\\UserRegistrationDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\User\\UserRegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\User\\UserRegistrationDTO.cs",
+              "RelativeToolTip": "DTO\\User\\UserRegistrationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:01:55.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmploymentController.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Controllers\\EmploymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmploymentController.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Controllers\\EmploymentController.cs",
+              "RelativeToolTip": "Controllers\\EmploymentController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:37:58.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersControllerTests..cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project5.UnitTest\\UsersControllerTests..cs",
+              "RelativeDocumentMoniker": "..\\Project5.UnitTest\\UsersControllerTests..cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project5.UnitTest\\UsersControllerTests..cs",
+              "RelativeToolTip": "..\\Project5.UnitTest\\UsersControllerTests..cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T05:57:28.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Implementation\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementation\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Implementation\\ContactRepository.cs",
+              "RelativeToolTip": "Repository\\Implementation\\ContactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:04:01.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Interface\\IContactService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IContactService.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Interface\\IContactService.cs",
+              "RelativeToolTip": "Services\\Interface\\IContactService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:07:18.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EducationService.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Implementation\\EducationService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\EducationService.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Implementation\\EducationService.cs",
+              "RelativeToolTip": "Services\\Implementation\\EducationService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA3wA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:21:24.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddressDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\Address\\AddressDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Address\\AddressDTO.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\Address\\AddressDTO.cs",
+              "RelativeToolTip": "DTO\\Address\\AddressDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:04:48.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateAddressDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\Address\\UpdateAddressDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Address\\UpdateAddressDTO.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\Address\\UpdateAddressDTO.cs",
+              "RelativeToolTip": "DTO\\Address\\UpdateAddressDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:38:55.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Models\\Address.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\Address.cs",
+              "RelativeToolTip": "Models\\Address.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:15:10.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T10:15:48.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T13:46:05.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Project 5 final.http",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Project 5 final.http",
+              "RelativeDocumentMoniker": "Project 5 final.http",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Project 5 final.http",
+              "RelativeToolTip": "Project 5 final.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-04T05:22:07.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T07:49:06.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Invalidtoken.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\Invalidtoken.cs",
+              "RelativeDocumentMoniker": "Models\\Invalidtoken.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\Invalidtoken.cs",
+              "RelativeToolTip": "Models\\Invalidtoken.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:33:34.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\User\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\User\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\User\\UserLoginDTO.cs",
+              "RelativeToolTip": "DTO\\User\\UserLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:16:09.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\User\\UserResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\User\\UserResponseDTO.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\User\\UserResponseDTO.cs",
+              "RelativeToolTip": "DTO\\User\\UserResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:16:31.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\User\\UserUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\User\\UserUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\User\\UserUpdateDTO.cs",
+              "RelativeToolTip": "DTO\\User\\UserUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:16:38.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:13:01.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:02:48.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA+wA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:03:13.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\User\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\User\\ChangePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\User\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "DTO\\User\\ChangePasswordDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:04:51.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interface\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:07:22.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IEducationService.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Interface\\IEducationService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IEducationService.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Interface\\IEducationService.cs",
+              "RelativeToolTip": "Services\\Interface\\IEducationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:07:20.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Education.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\Education.cs",
+              "RelativeDocumentMoniker": "Models\\Education.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\Education.cs",
+              "RelativeToolTip": "Models\\Education.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:13:02.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Employment.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\Employment.cs",
+              "RelativeDocumentMoniker": "Models\\Employment.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Models\\Employment.cs",
+              "RelativeToolTip": "Models\\Employment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:13:03.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IAddressService.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Interface\\IAddressService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IAddressService.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Interface\\IAddressService.cs",
+              "RelativeToolTip": "Services\\Interface\\IAddressService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:06:50.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IEducationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Interface\\IEducationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IEducationRepository.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Interface\\IEducationRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IEducationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:05:37.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Implementation\\AddressService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\AddressService.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Implementation\\AddressService.cs",
+              "RelativeToolTip": "Services\\Implementation\\AddressService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:19:26.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Implementation\\ContactService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\ContactService.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Services\\Implementation\\ContactService.cs",
+              "RelativeToolTip": "Services\\Implementation\\ContactService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:21:31.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EducationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Implementation\\EducationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementation\\EducationRepository.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Implementation\\EducationRepository.cs",
+              "RelativeToolTip": "Repository\\Implementation\\EducationRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:04:27.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddressRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Implementation\\AddressRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementation\\AddressRepository.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Implementation\\AddressRepository.cs",
+              "RelativeToolTip": "Repository\\Implementation\\AddressRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:03:25.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EducationController.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Controllers\\EducationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EducationController.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Controllers\\EducationController.cs",
+              "RelativeToolTip": "Controllers\\EducationController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:38:29.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IAddressRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Interface\\IAddressRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IAddressRepository.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Repository\\Interface\\IAddressRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IAddressRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:00:18.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:38:38.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Project 5 final.csproj",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Project 5 final.csproj",
+              "RelativeDocumentMoniker": "Project 5 final.csproj",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Project 5 final.csproj",
+              "RelativeToolTip": "Project 5 final.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T04:01:03.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EducationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\Education\\EducationDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Education\\EducationDTO.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\Education\\EducationDTO.cs",
+              "RelativeToolTip": "DTO\\Education\\EducationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:39:14.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UpdateContactDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\Contact\\UpdateContactDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Contact\\UpdateContactDTO.cs",
+              "ToolTip": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\DTO\\Contact\\UpdateContactDTO.cs",
+              "RelativeToolTip": "DTO\\Contact\\UpdateContactDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:38:57.39Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
