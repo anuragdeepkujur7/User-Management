@@ -1,7 +1,11 @@
 # User Management API
 
 A RESTful ASP.NET Core Web API built using .NET 8 for user registration, authentication, and profile management.
+## Documentation
 
+Detailed project documentation is available here:
+
+[Process Flow Documentation](Documentation/Process%20Flow%20Documentation.pdf)
 ## Overview
 
 This project demonstrates the implementation of a scalable Web API using a layered architecture with proper separation of concerns. The application allows users to register, log in, and manage their profile information.
