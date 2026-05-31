@@ -1,27 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Project 5 final.csproj": {}
+    "G:\\Interbiz\\Anurag\\Project 5 final\\Project 5 final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Project 5 final.csproj": {
+    "G:\\Interbiz\\Anurag\\Project 5 final\\Project 5 final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Project 5 final.csproj",
+        "projectUniqueName": "G:\\Interbiz\\Anurag\\Project 5 final\\Project 5 final.csproj",
         "projectName": "Project 5 final",
-        "projectPath": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\Project 5 final.csproj",
-        "packagesPath": "C:\\Users\\IBZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IBZ\\OneDrive - Interbiz consulting Pvt ltd\\Desktop\\Anurag\\Project 5 final\\obj\\",
+        "projectPath": "G:\\Interbiz\\Anurag\\Project 5 final\\Project 5 final.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "G:\\Interbiz\\Anurag\\Project 5 final\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\IBZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -97,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
